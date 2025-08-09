@@ -30,7 +30,7 @@ const handleBtn=()=>{
     {/* Desktop menu  */}
     {/* mobile menu */}
      <div>
-      <p className="bg-red-300 p-5 px-2 lg:hidden" onClick={handleBtn}>click</p>
+      <p className="p-5 bg-red-300 px-2 lg:hidden" onClick={handleBtn}>click</p>
       {/* onClick er modde handleBtn function ta call korbe */}
       {/* {show && 
       ar modde show true holei ul ta show hobe aita dite hobe*/}
